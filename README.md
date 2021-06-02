@@ -16,3 +16,4 @@ L'activitat ha estat elaborada per l'equip format per Jordi Gual Obradors i Dani
 
 ### Fitxers csv
 * healthcare-dataset-stroke-data.csv: Dades obertes obtingudes del dataset original penjat a Kaggle per Fede Soriano. https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+* output.csv: Dades finals amb les quals hem treballat l'anàlisi de dades
